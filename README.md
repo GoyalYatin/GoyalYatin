@@ -23,3 +23,10 @@ Here are some ideas to get you started:
 Hosted Applications
 1. <a href="https://goyalyatin.github.io/Snake-Jquery-Game/">Jquery Snake Game</a>
 2. <a href="https://goyalyatin.github.io/graphvisualizer/">Graph Visualizer</a>
+
+Hosted Documentations
+1. <a href="https://goyalyatin.github.io/Car-Racing-Pygame/">Car Racing Game</a>
+2. <a href="https://goyalyatin.github.io/MEAN-Website-Frontend/">Todo Application</a>
+3. <a href="https://goyalyatin.github.io/iot-projects/">IOT Projects</a>
+4. <a href="https://goyalyatin.github.io/Snake-Pygame/">Pygame Snake</a>
+5. <a href="https://goyalyatin.github.io/Web-Crawler/">Web Crawler</a>
