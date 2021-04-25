@@ -19,3 +19,7 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/channel/UCHN-7NJkCkfhflWR0AmKnSg"><img src="https://img.shields.io/youtube/channel/subscribers/UCHN-7NJkCkfhflWR0AmKnSg?style=social" height=25></a>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=GoyalYatin&amp;show_icons=true" alt="GitHub Stats"></p>
+
+Hosted Applications
+1. <a href="https://goyalyatin.github.io/Snake-Jquery-Game/">Jquery Snake Game</a>
+2. <a href="https://goyalyatin.github.io/graphvisualizer/">Graph Visualizer</a>
