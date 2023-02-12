@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 #### 📝 My Latest Blog Post in Medium
-[![Yatin Goyal Medium](https://github-readme-medium.vercel.app/?username=goyalyatin20&limit=2)](https://medium.com/@omidnikrah)
+[![Yatin Goyal Medium](https://github-readme-medium.vercel.app/?username=goyalyatin20&limit=5)](https://medium.com/@omidnikrah)
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=GoyalYatin&amp;show_icons=true" alt="GitHub Stats"></p>
 
