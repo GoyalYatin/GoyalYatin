@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 <br/>
 <a href="https://www.linkedin.com/in/yatingoyal/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="https://www.youtube.com/channel/UCHN-7NJkCkfhflWR0AmKnSg"><img src="https://img.shields.io/youtube/channel/subscribers/UCHN-7NJkCkfhflWR0AmKnSg?style=social" height=25></a>
-
+<br/>
+<br/>
+#### 📝 My Latest Blog Post in Medium
+[![Yatin Goyal Medium](https://github-readme-medium.vercel.app/?username=goyalyatin20&limit=2)](https://medium.com/@omidnikrah)
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=GoyalYatin&amp;show_icons=true" alt="GitHub Stats"></p>
 
