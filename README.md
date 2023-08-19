@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 #### 📝 My Latest Blog Post in Medium
 [![Yatin Goyal Medium](https://github-readme-medium-recent-article.vercel.app/medium/@goyalyatin20)](https://medium.com/@goyalyatin20)
 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@goyalyatin20/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@goyalyatin20/1" alt="Recent article #1"></a>
+
 <p><img src="https://github-readme-stats.vercel.app/api?username=GoyalYatin&amp;show_icons=true" alt="GitHub Stats"></p>
 
 Hosted Applications
